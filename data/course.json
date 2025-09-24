@@ -1,0 +1,46 @@
+{
+  "term": "Fall",
+  "year": "2013",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ]
+  ],
+  "legacy_uid": "d8308a67-1e16-2208-6c94-d9553bde9efc",
+  "instructors": {
+    "content": [
+      "00ee6aba-4f6e-cdc8-7227-106edbd9c091"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "bc82ac63-f556-b455-42d3-07b691766671",
+    "website": "15-070j-advanced-stochastic-processes-fall-2013"
+  },
+  "course_title": "Advanced Stochastic Processes",
+  "course_description": "This class covers the analysis and modeling of stochastic processes. Topics include measure theoretic probability, martingales, filtration, and stopping theorems, elements of large deviations theory, Brownian motion and reflected Brownian motion, stochastic integration and Ito calculus and functional limit theorems. In addition, the class will go over some applications to finance theory, insurance, queueing and inventory models.\n",
+  "department_numbers": [
+    "15",
+    "6"
+  ],
+  "extra_course_numbers": "6.265J",
+  "primary_course_number": "15.070J",
+  "course_image_thumbnail": {
+    "content": "7cd5ab7c-4cec-47a6-212f-2446ffd74e1b",
+    "website": "15-070j-advanced-stochastic-processes-fall-2013"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Instructor Insights"
+  ],
+  "site_uid": "91bb342f-fba1-4b49-83d0-f095e5d006cb",
+  "site_short_id": "15.070j-fall-2013",
+  "site_url_path": "courses/15-070j-advanced-stochastic-processes-fall-2013",
+  "title": "Course Metadata"
+}
