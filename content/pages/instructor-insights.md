@@ -35,7 +35,7 @@ Any one of the following courses:
 ### Requirements Satisfied
 
 - H-Level Graduate Credit ![](/images/educator/icon-question-hlevel.png)
-- {{% resource_link "72f7e7fc-0445-48a9-963a-7baeb10285e8" "Operations Research Center" %}} (ORC) doctoral degree requirement
+- [Operations Research Center](http://web.mit.edu/orc/www/academics/phd.html) (ORC) doctoral degree requirement
 
 ### Offered
 
