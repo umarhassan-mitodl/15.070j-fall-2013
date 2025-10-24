@@ -5,8 +5,6 @@ description: This resource file contains the information regarding lecture 11-ad
 file: /courses/15-070j-advanced-stochastic-processes-fall-2013/66b6c8fdb52304e3777ce8286beaaf7d_MIT15_070JF13_Lec11Add.pdf
 file_size: 381735
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
