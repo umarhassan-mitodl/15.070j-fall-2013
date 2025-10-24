@@ -4,8 +4,6 @@ description: This syllabus section provides the course description, an overview 
   lecture topics, and information on meeting times, prerequisites, grading, and the
   course calendar.
 draft: false
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

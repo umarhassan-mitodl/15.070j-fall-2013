@@ -3,8 +3,6 @@ content_type: page
 description: This section provides the schedule of readings by class session, a list
   of references, and a list of supplemental references.
 draft: false
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
